@@ -1,2 +1,9 @@
 venv/
 test.py
+out/
+data/
+encoders/
+models/
+params/
+pcas/
+temp/
