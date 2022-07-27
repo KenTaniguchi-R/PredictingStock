@@ -1,4 +1,4 @@
-# Stock Prediction
+# Stock Prediction with LightGBM
 
 suggesting stocks which would go up tmrw using LightGBM.
 
